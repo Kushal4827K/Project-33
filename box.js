@@ -33,7 +33,7 @@ class Box {
     
   }
   score(){
-    if (this.visiblity < 0 && this.visiblity > -1005){
+    if (this.visibility < 0 && this.visibility > -100){
       score++;
   }
 }
