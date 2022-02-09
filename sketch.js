@@ -63,11 +63,17 @@ function draw(){
     textSize(10);
     text("Press Space to get a second Chance to Play!!",650 ,350);
     box1.display();
+    box1.score();
     box2.display();
+    box2.score();
     box3.display();
+    box3.score();
     box4.display();
+    box4.score();
     box5.display();
+    box5.score();
     box6.display();
+    box6.score();
     box7.display();
     box8.display();
     box9.display();
